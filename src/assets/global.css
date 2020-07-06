@@ -1,0 +1,22 @@
+.el-message-box .el-message-box__content {
+    height: 500px;
+    overflow: auto;
+}
+.el-message-box {
+    width: 80%;
+    overflow: auto;
+}
+#selectValue{
+    width: 150px;
+    outline: none;
+    border-radius: 4px;
+    margin-left: 20px;
+    height: 25px;
+}
+#textarea{
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 300px;
+    height: 300px;
+    display:none;
+}
